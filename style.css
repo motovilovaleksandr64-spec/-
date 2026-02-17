@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.content {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 80px 40px;
+    text-align: center;
+    background: white;
+    min-height: 100vh;
+}
+
+.nav-link {
+    display: block;
+    background-color: #894AFF;
+    color: white;
+    padding: 11px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 38px;
+    position: absolute;
+    top: 20px;
+}
+
+.next {
+    left: 20px;
+}
+
+.prev {
+    right: 20px;
+}
+
+img {
+    margin: 15px;
+    border-radius: 15px;
+}
